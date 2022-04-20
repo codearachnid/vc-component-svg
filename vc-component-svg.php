@@ -34,7 +34,7 @@ if ( ! class_exists( 'VcComponentSvg' ) ) {
 				'name'          => __('SVG Element', 'vccomponentsvg'),
 				'base'          => 'vc_component_svg',
 				'description'  	=> __( '', 'vccomponentsvg' ),
-				'category'      => __( 'Custom Modules', 'vccomponentsvg'),                
+				'category'      => __( 'Content', 'vccomponentsvg'),                
 				'params' => array(
 	
 					array(
